@@ -1,6 +1,5 @@
 # Rocca Cipher
 
-First-Ever Implementation of Rocca Cipher in Python on Github
 An AES-based authenticated encryption scheme designed for ultra-fast performance in 6G systems. Rocca aims to achieve high-speed software implementations by fully leveraging AES-NI and SIMD instructions, providing 256-bit security and speeds exceeding 100 Gbps.
 
 ## Table of Contents
